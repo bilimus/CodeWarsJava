@@ -20,7 +20,6 @@ public class Consecutive_strings {
                 finalStr = longStr;
             }
 
-
             longStr = "";
         }
         System.out.println(finalStr);
